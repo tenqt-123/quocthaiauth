@@ -1,0 +1,20 @@
+{
+  "adminKey": "thai",
+  "admins": [
+    {
+      "id": "admin_01",
+      "username": "admin",
+      "password": "thai",
+      "email": "admin@vietauth.vn",
+      "role": "SUPER_ADMIN",
+      "plan": "ENTERPRISE",
+      "createdAt": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "apps": [],
+  "licenses": [],
+  "users": [],
+  "variables": [],
+  "logs": [],
+  "devices": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "viet-auth-system",
+  "version": "1.2.0",
+  "description": "VietAuth - Hệ thống quản lý bản quyền key & xác thực API tiếng Việt",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "keyauth",
+    "license",
+    "vietnam",
+    "api",
+    "auth"
+  ],
+  "author": "Thai",
+  "license": "MIT"
+}
